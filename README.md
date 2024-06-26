@@ -24,7 +24,7 @@ Usage:
     JWT_SECRET=mysecretjwtsecret 
 
     # Database URL (replace with your MongoDB connection string) 
-    MONGODB_URL=mongodb://localhost:27017/mydatabase 
+    MONGODB_URL=mongodb://localhost:27017/mydatabase // Replace this with you MongoBD url
 
     # Server Port (optional, default is 3000)
     PORT=3000 
@@ -35,4 +35,4 @@ Usage:
     The server will start on http://localhost:3000. //right now the host is hardcoded as localhost you can change that
 
 
-Please refer to the swagger.yaml for enpoints info 
+Please refer to the swagger.yaml for endpoints info 
